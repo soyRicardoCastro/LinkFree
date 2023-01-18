@@ -1,0 +1,28 @@
+{
+  "name": "Ricardo Castro",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "_FullStack_ *Web Developer* | Open Source",
+  "avatar": "https://avatars.githubusercontent.com/u/95724981?v=4",
+  "links": [
+    {
+      "name": "See my projects on GitHub",
+      "url": "https://github.com/soyRicardoCastro",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ImRicardoJs",
+      "icon": "FaTwitter"
+    }
+  ],
+  "tags": [
+    "JavaScript",
+    "Typescript",
+    "Tailwind",
+    "React",
+    "NextJs",
+    "tRPC",
+    "Astro"
+  ]
+}
